@@ -28,3 +28,29 @@
 #
 #Delete these comments before commit!
 #Good luck.
+
+class Student:
+    def __init__(self, name, surname, classes):
+        self.name = name
+        self.surname = surname
+        self.classes = classes
+
+    
+    def add_grade(self, class_name, grade)
+
+
+    def add_attendance(self, class_name, presence)
+
+    def calculate_average(self)
+
+    def calculate_attendance(self)
+
+class Class(Student):
+    def __init__(self)
+
+    def calcualte_class_average(self)
+        
+    def calculate_class_attendance(self)
+
+class HighSchool(Class):
+
