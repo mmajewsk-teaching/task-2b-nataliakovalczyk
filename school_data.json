@@ -1,0 +1,1376 @@
+{
+  "students": [
+    {
+      "name": "Student1",
+      "school": "Highschool A",
+      "grades": {
+        "Mathematics": [
+          4,
+          3,
+          5
+        ],
+        "Chemistry": [
+          5,
+          4,
+          5
+        ],
+        "History": [
+          5,
+          5,
+          3
+        ],
+        "Art": [
+          5,
+          5,
+          3
+        ],
+        "Physics": [
+          5,
+          5,
+          5
+        ],
+        "Biology": [
+          3,
+          4,
+          4
+        ]
+      },
+      "attendance": {
+        "Mathematics": [
+          1,
+          0,
+          1
+        ],
+        "Chemistry": [
+          1,
+          1,
+          1
+        ],
+        "History": [
+          0,
+          0,
+          0
+        ],
+        "Art": [
+          0,
+          1,
+          0
+        ],
+        "Physics": [
+          0,
+          1,
+          1
+        ],
+        "Biology": [
+          1,
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "name": "Student2",
+      "school": "Highschool B",
+      "grades": {
+        "Mathematics": [
+          5,
+          5,
+          5
+        ],
+        "Chemistry": [
+          5,
+          3,
+          3
+        ],
+        "History": [
+          5,
+          4,
+          4
+        ],
+        "Art": [
+          3,
+          3,
+          3
+        ],
+        "Physics": [
+          3,
+          4,
+          4
+        ],
+        "Biology": [
+          3,
+          3,
+          5
+        ]
+      },
+      "attendance": {
+        "Mathematics": [
+          0,
+          0,
+          1
+        ],
+        "Chemistry": [
+          0,
+          0,
+          0
+        ],
+        "History": [
+          0,
+          0,
+          0
+        ],
+        "Art": [
+          0,
+          0,
+          1
+        ],
+        "Physics": [
+          0,
+          1,
+          1
+        ],
+        "Biology": [
+          1,
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "name": "Student3",
+      "school": "Highschool A",
+      "grades": {
+        "Mathematics": [
+          5,
+          4,
+          3
+        ],
+        "Chemistry": [
+          5,
+          3,
+          4
+        ],
+        "History": [
+          3,
+          3,
+          5
+        ],
+        "Art": [
+          4,
+          4,
+          4
+        ],
+        "Physics": [
+          5,
+          5,
+          4
+        ],
+        "Biology": [
+          5,
+          3,
+          3
+        ]
+      },
+      "attendance": {
+        "Mathematics": [
+          1,
+          1,
+          1
+        ],
+        "Chemistry": [
+          1,
+          1,
+          1
+        ],
+        "History": [
+          1,
+          1,
+          1
+        ],
+        "Art": [
+          0,
+          1,
+          1
+        ],
+        "Physics": [
+          1,
+          0,
+          1
+        ],
+        "Biology": [
+          1,
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "name": "Student4",
+      "school": "Highschool B",
+      "grades": {
+        "Mathematics": [
+          3,
+          5,
+          4
+        ],
+        "Chemistry": [
+          3,
+          3,
+          3
+        ],
+        "History": [
+          4,
+          3,
+          5
+        ],
+        "Art": [
+          3,
+          4,
+          3
+        ],
+        "Physics": [
+          5,
+          3,
+          4
+        ],
+        "Biology": [
+          5,
+          4,
+          4
+        ]
+      },
+      "attendance": {
+        "Mathematics": [
+          1,
+          1,
+          1
+        ],
+        "Chemistry": [
+          1,
+          0,
+          1
+        ],
+        "History": [
+          0,
+          0,
+          0
+        ],
+        "Art": [
+          1,
+          1,
+          1
+        ],
+        "Physics": [
+          1,
+          0,
+          1
+        ],
+        "Biology": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "name": "Student5",
+      "school": "Highschool A",
+      "grades": {
+        "Mathematics": [
+          3,
+          3,
+          3
+        ],
+        "Chemistry": [
+          3,
+          5,
+          4
+        ],
+        "History": [
+          4,
+          4,
+          5
+        ],
+        "Art": [
+          4,
+          5,
+          4
+        ],
+        "Physics": [
+          3,
+          4,
+          3
+        ],
+        "Biology": [
+          3,
+          5,
+          4
+        ]
+      },
+      "attendance": {
+        "Mathematics": [
+          1,
+          1,
+          1
+        ],
+        "Chemistry": [
+          1,
+          1,
+          1
+        ],
+        "History": [
+          0,
+          1,
+          1
+        ],
+        "Art": [
+          0,
+          0,
+          1
+        ],
+        "Physics": [
+          1,
+          1,
+          1
+        ],
+        "Biology": [
+          0,
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "name": "Student6",
+      "school": "Highschool B",
+      "grades": {
+        "Mathematics": [
+          5,
+          3,
+          3
+        ],
+        "Chemistry": [
+          5,
+          4,
+          5
+        ],
+        "History": [
+          4,
+          3,
+          4
+        ],
+        "Art": [
+          5,
+          4,
+          5
+        ],
+        "Physics": [
+          3,
+          5,
+          5
+        ],
+        "Biology": [
+          3,
+          3,
+          5
+        ]
+      },
+      "attendance": {
+        "Mathematics": [
+          1,
+          1,
+          0
+        ],
+        "Chemistry": [
+          1,
+          0,
+          1
+        ],
+        "History": [
+          1,
+          0,
+          0
+        ],
+        "Art": [
+          1,
+          0,
+          1
+        ],
+        "Physics": [
+          0,
+          1,
+          1
+        ],
+        "Biology": [
+          1,
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "name": "Student7",
+      "school": "Highschool A",
+      "grades": {
+        "Mathematics": [
+          5,
+          3,
+          4
+        ],
+        "Chemistry": [
+          3,
+          4,
+          4
+        ],
+        "History": [
+          4,
+          5,
+          3
+        ],
+        "Art": [
+          4,
+          5,
+          5
+        ],
+        "Physics": [
+          5,
+          5,
+          4
+        ],
+        "Biology": [
+          4,
+          3,
+          4
+        ]
+      },
+      "attendance": {
+        "Mathematics": [
+          1,
+          1,
+          1
+        ],
+        "Chemistry": [
+          1,
+          1,
+          1
+        ],
+        "History": [
+          1,
+          1,
+          1
+        ],
+        "Art": [
+          0,
+          0,
+          0
+        ],
+        "Physics": [
+          0,
+          1,
+          0
+        ],
+        "Biology": [
+          0,
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "name": "Student8",
+      "school": "Highschool B",
+      "grades": {
+        "Mathematics": [
+          5,
+          5,
+          4
+        ],
+        "Chemistry": [
+          3,
+          5,
+          3
+        ],
+        "History": [
+          3,
+          5,
+          4
+        ],
+        "Art": [
+          4,
+          5,
+          5
+        ],
+        "Physics": [
+          3,
+          3,
+          4
+        ],
+        "Biology": [
+          5,
+          3,
+          4
+        ]
+      },
+      "attendance": {
+        "Mathematics": [
+          1,
+          0,
+          1
+        ],
+        "Chemistry": [
+          1,
+          0,
+          1
+        ],
+        "History": [
+          1,
+          0,
+          1
+        ],
+        "Art": [
+          1,
+          0,
+          1
+        ],
+        "Physics": [
+          1,
+          0,
+          1
+        ],
+        "Biology": [
+          0,
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "name": "Student9",
+      "school": "Highschool A",
+      "grades": {
+        "Mathematics": [
+          5,
+          3,
+          3
+        ],
+        "Chemistry": [
+          3,
+          3,
+          4
+        ],
+        "History": [
+          4,
+          4,
+          3
+        ],
+        "Art": [
+          5,
+          4,
+          3
+        ],
+        "Physics": [
+          3,
+          5,
+          3
+        ],
+        "Biology": [
+          4,
+          5,
+          3
+        ]
+      },
+      "attendance": {
+        "Mathematics": [
+          0,
+          1,
+          1
+        ],
+        "Chemistry": [
+          1,
+          1,
+          1
+        ],
+        "History": [
+          1,
+          0,
+          1
+        ],
+        "Art": [
+          1,
+          1,
+          1
+        ],
+        "Physics": [
+          1,
+          1,
+          1
+        ],
+        "Biology": [
+          1,
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "name": "Student10",
+      "school": "Highschool B",
+      "grades": {
+        "Mathematics": [
+          3,
+          4,
+          3
+        ],
+        "Chemistry": [
+          3,
+          5,
+          4
+        ],
+        "History": [
+          5,
+          5,
+          5
+        ],
+        "Art": [
+          5,
+          3,
+          5
+        ],
+        "Physics": [
+          3,
+          3,
+          3
+        ],
+        "Biology": [
+          5,
+          3,
+          3
+        ]
+      },
+      "attendance": {
+        "Mathematics": [
+          1,
+          0,
+          1
+        ],
+        "Chemistry": [
+          1,
+          1,
+          1
+        ],
+        "History": [
+          0,
+          1,
+          0
+        ],
+        "Art": [
+          1,
+          1,
+          1
+        ],
+        "Physics": [
+          1,
+          1,
+          0
+        ],
+        "Biology": [
+          1,
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "name": "Student11",
+      "school": "Highschool A",
+      "grades": {
+        "Mathematics": [
+          3,
+          5,
+          3
+        ],
+        "Chemistry": [
+          5,
+          4,
+          3
+        ],
+        "History": [
+          4,
+          5,
+          4
+        ],
+        "Art": [
+          4,
+          4,
+          4
+        ],
+        "Physics": [
+          4,
+          4,
+          3
+        ],
+        "Biology": [
+          5,
+          4,
+          5
+        ]
+      },
+      "attendance": {
+        "Mathematics": [
+          1,
+          1,
+          0
+        ],
+        "Chemistry": [
+          0,
+          1,
+          0
+        ],
+        "History": [
+          1,
+          0,
+          1
+        ],
+        "Art": [
+          0,
+          1,
+          0
+        ],
+        "Physics": [
+          1,
+          0,
+          0
+        ],
+        "Biology": [
+          0,
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "name": "Student12",
+      "school": "Highschool B",
+      "grades": {
+        "Mathematics": [
+          4,
+          3,
+          3
+        ],
+        "Chemistry": [
+          3,
+          4,
+          3
+        ],
+        "History": [
+          4,
+          4,
+          3
+        ],
+        "Art": [
+          5,
+          5,
+          5
+        ],
+        "Physics": [
+          3,
+          5,
+          5
+        ],
+        "Biology": [
+          3,
+          4,
+          3
+        ]
+      },
+      "attendance": {
+        "Mathematics": [
+          1,
+          1,
+          0
+        ],
+        "Chemistry": [
+          1,
+          1,
+          1
+        ],
+        "History": [
+          1,
+          1,
+          1
+        ],
+        "Art": [
+          0,
+          0,
+          0
+        ],
+        "Physics": [
+          1,
+          1,
+          1
+        ],
+        "Biology": [
+          1,
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "name": "Student13",
+      "school": "Highschool A",
+      "grades": {
+        "Mathematics": [
+          5,
+          5,
+          5
+        ],
+        "Chemistry": [
+          4,
+          5,
+          3
+        ],
+        "History": [
+          5,
+          4,
+          5
+        ],
+        "Art": [
+          3,
+          4,
+          5
+        ],
+        "Physics": [
+          3,
+          3,
+          5
+        ],
+        "Biology": [
+          4,
+          5,
+          3
+        ]
+      },
+      "attendance": {
+        "Mathematics": [
+          0,
+          1,
+          1
+        ],
+        "Chemistry": [
+          1,
+          0,
+          0
+        ],
+        "History": [
+          0,
+          1,
+          1
+        ],
+        "Art": [
+          1,
+          0,
+          1
+        ],
+        "Physics": [
+          1,
+          1,
+          1
+        ],
+        "Biology": [
+          0,
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "name": "Student14",
+      "school": "Highschool B",
+      "grades": {
+        "Mathematics": [
+          3,
+          5,
+          5
+        ],
+        "Chemistry": [
+          5,
+          5,
+          5
+        ],
+        "History": [
+          4,
+          4,
+          3
+        ],
+        "Art": [
+          4,
+          4,
+          5
+        ],
+        "Physics": [
+          4,
+          4,
+          3
+        ],
+        "Biology": [
+          3,
+          5,
+          3
+        ]
+      },
+      "attendance": {
+        "Mathematics": [
+          1,
+          1,
+          1
+        ],
+        "Chemistry": [
+          1,
+          1,
+          1
+        ],
+        "History": [
+          0,
+          0,
+          0
+        ],
+        "Art": [
+          0,
+          1,
+          0
+        ],
+        "Physics": [
+          1,
+          1,
+          1
+        ],
+        "Biology": [
+          1,
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "name": "Student15",
+      "school": "Highschool A",
+      "grades": {
+        "Mathematics": [
+          5,
+          4,
+          3
+        ],
+        "Chemistry": [
+          4,
+          3,
+          4
+        ],
+        "History": [
+          4,
+          3,
+          4
+        ],
+        "Art": [
+          3,
+          5,
+          4
+        ],
+        "Physics": [
+          3,
+          4,
+          3
+        ],
+        "Biology": [
+          3,
+          4,
+          5
+        ]
+      },
+      "attendance": {
+        "Mathematics": [
+          0,
+          0,
+          1
+        ],
+        "Chemistry": [
+          1,
+          1,
+          0
+        ],
+        "History": [
+          1,
+          0,
+          0
+        ],
+        "Art": [
+          1,
+          0,
+          0
+        ],
+        "Physics": [
+          1,
+          1,
+          1
+        ],
+        "Biology": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "name": "Student16",
+      "school": "Highschool B",
+      "grades": {
+        "Mathematics": [
+          4,
+          5,
+          5
+        ],
+        "Chemistry": [
+          3,
+          5,
+          5
+        ],
+        "History": [
+          5,
+          3,
+          3
+        ],
+        "Art": [
+          5,
+          4,
+          4
+        ],
+        "Physics": [
+          5,
+          3,
+          5
+        ],
+        "Biology": [
+          3,
+          3,
+          5
+        ]
+      },
+      "attendance": {
+        "Mathematics": [
+          0,
+          1,
+          1
+        ],
+        "Chemistry": [
+          1,
+          0,
+          0
+        ],
+        "History": [
+          1,
+          1,
+          1
+        ],
+        "Art": [
+          1,
+          1,
+          0
+        ],
+        "Physics": [
+          0,
+          0,
+          1
+        ],
+        "Biology": [
+          1,
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "name": "Student17",
+      "school": "Highschool A",
+      "grades": {
+        "Mathematics": [
+          3,
+          4,
+          5
+        ],
+        "Chemistry": [
+          3,
+          3,
+          5
+        ],
+        "History": [
+          3,
+          3,
+          4
+        ],
+        "Art": [
+          3,
+          5,
+          5
+        ],
+        "Physics": [
+          4,
+          3,
+          3
+        ],
+        "Biology": [
+          4,
+          4,
+          4
+        ]
+      },
+      "attendance": {
+        "Mathematics": [
+          1,
+          1,
+          1
+        ],
+        "Chemistry": [
+          1,
+          0,
+          1
+        ],
+        "History": [
+          1,
+          1,
+          1
+        ],
+        "Art": [
+          1,
+          1,
+          1
+        ],
+        "Physics": [
+          1,
+          1,
+          1
+        ],
+        "Biology": [
+          1,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "name": "Student18",
+      "school": "Highschool B",
+      "grades": {
+        "Mathematics": [
+          5,
+          5,
+          3
+        ],
+        "Chemistry": [
+          4,
+          4,
+          4
+        ],
+        "History": [
+          4,
+          3,
+          5
+        ],
+        "Art": [
+          3,
+          3,
+          4
+        ],
+        "Physics": [
+          3,
+          4,
+          5
+        ],
+        "Biology": [
+          3,
+          3,
+          5
+        ]
+      },
+      "attendance": {
+        "Mathematics": [
+          1,
+          1,
+          1
+        ],
+        "Chemistry": [
+          1,
+          0,
+          1
+        ],
+        "History": [
+          0,
+          0,
+          1
+        ],
+        "Art": [
+          1,
+          1,
+          0
+        ],
+        "Physics": [
+          0,
+          0,
+          0
+        ],
+        "Biology": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "name": "Student19",
+      "school": "Highschool A",
+      "grades": {
+        "Mathematics": [
+          4,
+          3,
+          4
+        ],
+        "Chemistry": [
+          3,
+          4,
+          5
+        ],
+        "History": [
+          3,
+          5,
+          3
+        ],
+        "Art": [
+          5,
+          3,
+          4
+        ],
+        "Physics": [
+          5,
+          4,
+          5
+        ],
+        "Biology": [
+          3,
+          4,
+          3
+        ]
+      },
+      "attendance": {
+        "Mathematics": [
+          0,
+          1,
+          1
+        ],
+        "Chemistry": [
+          1,
+          1,
+          0
+        ],
+        "History": [
+          1,
+          0,
+          0
+        ],
+        "Art": [
+          1,
+          1,
+          0
+        ],
+        "Physics": [
+          0,
+          1,
+          1
+        ],
+        "Biology": [
+          1,
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "name": "Student20",
+      "school": "Highschool B",
+      "grades": {
+        "Mathematics": [
+          4,
+          3,
+          4
+        ],
+        "Chemistry": [
+          3,
+          4,
+          3
+        ],
+        "History": [
+          5,
+          5,
+          4
+        ],
+        "Art": [
+          4,
+          4,
+          5
+        ],
+        "Physics": [
+          5,
+          3,
+          4
+        ],
+        "Biology": [
+          5,
+          3,
+          4
+        ]
+      },
+      "attendance": {
+        "Mathematics": [
+          0,
+          0,
+          0
+        ],
+        "Chemistry": [
+          0,
+          0,
+          1
+        ],
+        "History": [
+          1,
+          1,
+          0
+        ],
+        "Art": [
+          1,
+          1,
+          1
+        ],
+        "Physics": [
+          1,
+          1,
+          1
+        ],
+        "Biology": [
+          0,
+          1,
+          1
+        ]
+      }
+    }
+  ],
+  "courses": [
+    "Mathematics",
+    "Chemistry",
+    "History",
+    "Art",
+    "Physics",
+    "Biology"
+  ],
+  "schools": [
+    "Highschool A",
+    "Highschool B"
+  ]
+}
